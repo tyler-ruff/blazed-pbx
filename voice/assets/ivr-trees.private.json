@@ -1,0 +1,25 @@
+{
+    "main": [
+        {"intro": "Hello, you've reached Blazed Labs, if you know you party's extension, you may dial it now, or stay on the line to be connected to an operator."},
+        {"sales": "Press 1 to reach the sales department."},
+        {"support": "Press 2 to reach the support help desk."},
+        {"publishing": "Press 3 to reach the publishing division of Blazed Labs."},
+        {"publishing": "Press 4 to reach the Human Resources department."},
+        {"other": "For all other inquiries, please stay on the line."}
+    ],
+    "sales": [
+        {"intro": "If you are a returning customer, and you have an existing ticket or order number, please input it now."},
+        {"sales_rep": "Press 1 to speak with a sales representative to purchase products or services."},
+        {"billing": "Press 2 to reach the billing department."},
+        {"marketing": "Press 3 to speak with the marketing department."},
+        {"support": "Press 4 to speak with the technical support department, for help with Blazed products and services."},
+        {"other": "For all other sales inquiries, please stay on the line."}
+    ],
+    "support": [
+        {"intro": "If you have an existing ticket number, please input it now."},
+        {"new_ticket": "Press 1 to start a new ticket and get support."},
+        {"report": "Press 2 to report a bug or issue with our software."},
+        {"urgent": "Press 3 to speak with an engineer concerning an urgent issue."},
+        {"other": "For all other support inquiries, please use our online support form at blazedlabs.com/contact"}
+    ]
+}
