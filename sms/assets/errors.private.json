@@ -1,0 +1,6 @@
+{
+    "sheets_404": "404 Error: Could not find your Google Sheets document. Please ensure DOCUMENT_ID is correct.",
+    "sheet_404": "Google sheets error: Please ensure SHEET_NAME is a valid spreadsheet inside your document.",
+    "sheets_integration": "Google Sheets integration error:",
+    "unknown_error": "Failed to save to Google Sheets. Please check the debugger in your Twilio console."
+}

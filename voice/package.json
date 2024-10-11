@@ -1,0 +1,19 @@
+{
+    "name": "blazed-voice",
+    "version": "1.0.0",
+    "description": "Blazed Private Branch Exchange, voice routes",
+    "private": true,
+    "scripts": {
+      "dev": "twilio serverless:start",
+      "deploy": "twilio serverless:deploy"
+    },
+    "dependencies": {},
+    "keywords": [
+      "blazed",
+      "pbx",
+      "voice"
+    ],
+    "author": "blazed-space",
+    "license": "MIT"
+  }
+  

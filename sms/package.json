@@ -1,0 +1,20 @@
+{
+  "name": "blazed-sms",
+  "version": "1.0.0",
+  "description": "Blazed Private Branch Exchange, SMS routes",
+  "private": true,
+  "scripts": {
+    "dev": "twilio serverless:start",
+    "deploy": "twilio serverless:deploy"
+  },
+  "dependencies": {
+    "googleapis": "^65.0.0"
+  },
+  "keywords": [
+    "blazed",
+    "pbx",
+    "sms"
+  ],
+  "author": "blazed-space",
+  "license": "MIT"
+}
